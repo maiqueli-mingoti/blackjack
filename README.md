@@ -1,4 +1,4 @@
-# ♠Blackjack em Assembly (RISC-V) ♦
+# Blackjack em Assembly (RISC-V)
 
 Este projeto é uma implementação do clássico jogo de cartas Blackjack (também conhecido como 21), desenvolvido puramente em linguagem de montagem para a arquitetura RISC-V. O jogo é executado em um ambiente de terminal e simula uma partida entre um jogador e o "dealer" (a casa).
 
@@ -27,7 +27,7 @@ O código é estruturado em várias seções e funções para organizar a lógic
     * `estouroJog` / `estouroDea`: Tratam os casos em que a pontuação ultrapassa 21.
 4.  **Funções de Interface (`print`)**: Um conjunto de funções responsáveis por imprimir mensagens e o estado atual do jogo no terminal.
 
-## ⚙️ Como Executar
+## Como Executar
 
 Para executar este código, você precisará de um simulador de ambiente RISC-V, como o **RARS (RISC-V Assembler and Runtime Simulator)**.
 
